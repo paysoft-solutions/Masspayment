@@ -1,0 +1,7 @@
+C:\Documents and Settings\pikalov.eugene\Downloads\Masspayment\Masspaymet\Masspayment\bin\Release\ReadMe.txt
+C:\Documents and Settings\pikalov.eugene\Downloads\Masspayment\Masspaymet\Masspayment\bin\Release\Masspayment.exe.config
+C:\Documents and Settings\pikalov.eugene\Downloads\Masspayment\Masspaymet\Masspayment\bin\Release\Masspayment.exe
+C:\Documents and Settings\pikalov.eugene\Downloads\Masspayment\Masspaymet\Masspayment\obj\x86\Release\Masspayment.frmMain.resources
+C:\Documents and Settings\pikalov.eugene\Downloads\Masspayment\Masspaymet\Masspayment\obj\x86\Release\Masspayment.Properties.Resources.resources
+C:\Documents and Settings\pikalov.eugene\Downloads\Masspayment\Masspaymet\Masspayment\obj\x86\Release\Masspayment.csproj.GenerateResource.Cache
+C:\Documents and Settings\pikalov.eugene\Downloads\Masspayment\Masspaymet\Masspayment\obj\x86\Release\Masspayment.exe
